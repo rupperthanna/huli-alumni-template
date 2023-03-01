@@ -11,8 +11,6 @@ Email: rupperthanna24@gmail.com
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
-
 Hackerrank: https://www.hackerrank.com/rupperthanna
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
